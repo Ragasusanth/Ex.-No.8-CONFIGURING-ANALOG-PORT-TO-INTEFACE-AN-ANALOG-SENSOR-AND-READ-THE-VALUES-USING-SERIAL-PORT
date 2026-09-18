@@ -455,8 +455,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 <img width="1600" height="721" alt="WhatsApp Image 2026-09-09 at 3 12 23 PM" src="https://github.com/user-attachments/assets/224ae721-9db1-47b6-8ae2-33f406cfc65c" />
 
-<img width="721" height="1600" alt="WhatsApp Image 2026-09-09 at 3 12 22 PM" src="https://github.com/user-attachments/assets/e237d2f3-d0d8-449b-a966-842d2c76597c" />
-
+<img width="467" height="566" alt="image" src="https://github.com/user-attachments/assets/a6238c9e-0481-4b85-9d80-ddf576ebd796" />
 
 
 
